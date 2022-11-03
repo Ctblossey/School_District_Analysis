@@ -1,2 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 School District Analysis for Maria
+
+  Using pandas, we were able to perform important analysis that allowed us to better interpret the data. By pulling the data into different dataframes; we grouped, sorted, and stored information that showed differences in the data. A few of these main differences were grade, school, school type, and scores. One of the comparisons we made was the difference in budget between Charter and Public schools, with their mean values being 872,625 and 911,195; respectively. This showed that, on average, Public schools had a higher budget. Another important discovery made was the student count for each school. With Montgomery having the most students at 2,038 and Chang having the least at 171, it is fair to assume that the Montgomery statistics are more reliable given the larger population size. The final inference we were able to make was the average math score based on grade and school type. Even though Charter schools have a lower budget than Public schools, they still performed better in math on average.
